@@ -1,0 +1,16 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="spinner">
+<rect width="200" height="200" fill="white"/>
+<g id="smallCircles">
+<circle id="redSmallCircle" cx="100" cy="150" r="10" fill="#CC3355"/>
+<circle id="orangeSmallCircle" cx="136" cy="136" r="10" fill="#FD7E14"/>
+<circle id="yellowSmallCircle" cx="150" cy="100" r="10" fill="#FFC107"/>
+<circle id="greenSmallCircle" cx="136" cy="64" r="10" fill="#28A745"/>
+<circle id="cyanSmallCircle" cx="100" cy="50" r="10" fill="#088F8F"/>
+<circle id="blueSmallCircle" cx="64" cy="64" r="10" fill="#007BFF"/>
+<circle id="indigoSmallCircle" cx="50" cy="100" r="10" fill="#6610F2"/>
+<circle id="violetSmallCircle" cx="64" cy="136" r="10" fill="#6F42C1"/>
+</g>
+<circle id="centerCircle" cx="100" cy="100" r="20" fill="#343A40"/>
+</g>
+</svg>
